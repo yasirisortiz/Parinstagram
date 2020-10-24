@@ -1,0 +1,6 @@
+framework module Pods_Parinstagram {
+  umbrella header "Pods-Parinstagram-umbrella.h"
+
+  export *
+  module * { export * }
+}

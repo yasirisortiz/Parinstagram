@@ -1,0 +1,6 @@
+framework module Pods_Parinstagram_ParinstagramUITests {
+  umbrella header "Pods-Parinstagram-ParinstagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
