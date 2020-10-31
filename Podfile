@@ -8,6 +8,7 @@ target 'Parinstagram' do
   # Pods for Parinstagram
    pod 'Parse'
    pod 'AlamofireImage'
+   pod 'MessageInputBar'
 
   target 'ParinstagramTests' do
     inherit! :search_paths
